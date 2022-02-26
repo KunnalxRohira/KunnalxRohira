@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KunnalxRohira
-- 👀 I’m interested in Data Analytics , machine learning and artificial intelligence.
+- 👀 I’m interested in Data Analytics .
 - 🌱 I’m currently learning Machine learning with python
 - 💞️ I’m looking to collaborate on various projects based on machine learning.
 - 📫 You can reach me via email kunnalxrohira@gmail.com 
